@@ -32,3 +32,70 @@
     margin-bottom: 50px;
     gap: 20px;
 }
+
+
+
+.h1box2{
+    font-size: 24px;
+    font-weight: 500;
+    color: #000000;
+    margin: 20px;
+}
+
+.p1box2{
+    font-size: 18px;
+    font-weight: 400;
+    color: #000000;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.sp1box2{
+    color: darkgray;
+}
+
+.p2box2{
+    width: 600px;
+    font-size: 18px;
+    font-weight: 300;
+    color: black;
+    margin: 20px;
+}
+
+.bt1box2{
+    border: none;
+    border: 1px solid rgba(0, 0, 0, 0.29);
+    background-color: white;
+    padding: 10px 15px;
+    margin: 20px;
+    margin-left: 0;
+}
+
+.bt1box2:hover{
+    background-color: gray;
+}
+
+.p3box2{
+    color: #000000;
+    font-weight: 500;
+}
+
+.sp2box2{
+    background-color: black;
+    color: white;
+    padding: 2px 5px;
+}
+
+.div1box2{
+    width: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 380px;
+}
+
+.box2{
+    width: 700px;
+    border: 1px solid rgba(0, 0, 0, 0.147);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.241);
+}
